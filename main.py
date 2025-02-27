@@ -4,7 +4,7 @@ projekt_1.py: první projekt do Engeto Online Python Akademie
 autor: Vojtěch Otruba
 email: voj..otruba@gmail.com
 """
-""" #login verification
+#login verification
 class UserVerification:
     username = input("username: ")
     password = input("password: ")
@@ -22,7 +22,7 @@ class UserVerification:
             print("Wrong password, terminating program...")
             exit()
         else: #registered user
-            print("Welcome to the app,", username)  """
+            print("Welcome to the app,", username) 
 #text division 
 class AnalyzeText:
     divider = ("-" *40)
